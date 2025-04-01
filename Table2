@@ -1,7 +1,0 @@
-![](Table1.png)
-
-Table 1: Performance of RPP against Badnets backdoor attack was evaluated on the imbalanced CIFAR10 training datasets $(\rho = 2, 10, 100, 200)$ with target class is minority (class 9) or intermediate (class 4).
-
-![](Table2.png)
-
-Table 2: The ASR for the Badnets backdoor attack without class weight training and the performance of RPP against the Badnets backdoor attack were evaluated on imbalanced CIFAR10 training datasets with imbalance ratios of $\rho = 2, 10, 100, 200$ under class weight training.
